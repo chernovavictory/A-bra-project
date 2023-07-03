@@ -1,2 +1,4 @@
-| Number | Title | Description | Steps to Reproduce | Result | Expected result | Screens | Comments |
-| 1 | exm | exm | exm |  res exm | ex exm | screen exm | com exm |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
